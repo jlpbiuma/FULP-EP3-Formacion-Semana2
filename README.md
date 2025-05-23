@@ -17,6 +17,14 @@ En esta actividad van a tener que desarrollar 165 ejercicios de ir poniendo un c
 
 En este otro apartado, van a tener que trabajar a la par con Midudev para entender y comprender cada concepto hacer de las bases de datos.
 
+## 📋 Entregables
+
+Deben de crear un FORK de este repositorio para desarrollar la práctica.
+
+- 📸 Parte 1 -> Crear una carpeta llamada "parte1" y dentro introducir la captura de pantalla donde se vea reflejado que han realizado el 100% de los ejercicios (los 165 propuestos).
+
+- 💻 Parte 2 -> Crear una carpeta llamada "parte2" e introducir el código fuente y apuntes que hayan tomado en extensión .sql durante el vídeo.
+
 ## Recursos
 
 - [Chuletilla de comando SQL](./docs/SQL-cheat-sheet.pdf): Una chuletilla bien redactada donde tienen todos los comandos típicos de SQL separados por el tipo de consulta.
