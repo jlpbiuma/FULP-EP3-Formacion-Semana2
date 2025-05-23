@@ -33,7 +33,8 @@ Deben de crear un FORK de este repositorio para desarrollar la práctica.
 
 - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/): Un software muy grande para manejo de bases de datos que no pasa de moda.
 - [DBeaver](https://dbeaver.io/download/): Personalmente es mi mayor recomendación, es un software más ligero y que va más rápido. Tiene muchos tipos de conexiones y en general es fácil de usar.
-- [TablePlus](https://tableplus.com/): Una alternativa moderna con interfaz limpia y soporte para múltiples bases de datos.
+- [phpMyAdmin](https://www.phpmyadmin.net/downloads/): Software de gestión de bases de datos tipo MySQL / MariaDB. Pueden levantar este software mediante un [contenedor docker](https://hub.docker.com/_/phpmyadmin) lo cual lo hace bastante modular.
+
 
 ## 🧠 Curiosidades
 
