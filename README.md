@@ -25,7 +25,7 @@ Deben de crear un FORK de este repositorio para desarrollar la práctica.
 
 - 💻 Parte 2 -> Crear una carpeta llamada "parte2" e introducir el código fuente y apuntes que hayan tomado en extensión .sql durante el vídeo.
 
-## Recursos
+## 🧾 Recursos
 
 - [Chuletilla de comando SQL](./docs/SQL-cheat-sheet.pdf): Una chuletilla bien redactada donde tienen todos los comandos típicos de SQL separados por el tipo de consulta.
 
@@ -153,7 +153,7 @@ CREATE TABLE empleados (
 
 - 🔀 Otra buena práctica es tener una base de datos orientada al desarrollo y otra orientada a producción. De esta forma cualquier cambio que se realice en la lógica de negocio de nuestro software será probado en la base de datos en desarrollo para posteriormente realizar los cambios necesarios en producción sin la posibilidad de romper la integridad de los datos.
 
-## 🧾​ Recursos adicionales
+## 🧾🧾​ Recursos adicionales
 
 - [SQL Cheat Sheet de W3Schools](https://www.w3schools.com/sql/sql_ref_mysql.asp)
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
